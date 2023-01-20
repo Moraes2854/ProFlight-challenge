@@ -1,0 +1,25 @@
+.icon {
+    display: flex;
+    width: 155.43px;
+    height: 153.57px;
+    background: url('logo.png');
+    mix-blend-mode: normal;
+    border-radius: 26px;
+}
+
+.active {
+    background: linear-gradient(233.16deg, #00B0CE -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+}
+
+.inactive {
+    background: #c8e4ec;
+}
+
+.background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 216.49px;
+    height: 206px;
+    border-radius: 30px;
+}
